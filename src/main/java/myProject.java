@@ -13,6 +13,6 @@ public class myProject {
 
     public void version(){
         //添加代码,更新版本练习
-        System.out.println("第二次提交");
+        System.out.println("模拟线上有人更改提交");
     }
 }
