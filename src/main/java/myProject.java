@@ -10,4 +10,9 @@ public class myProject {
     public static void main(String[] args) {
         System.out.println("这是我的第一个项目");
     }
+
+    public void version(){
+        //添加代码,更新版本练习
+        System.out.println("第二次提交");
+    }
 }
